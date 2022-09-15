@@ -32,9 +32,3 @@ Course will have the following attribute and functions
 
 
 
-Trivia:
-
-There will NOT be any two students, course and professor with the same name.
-You should add methods in these classes for writing good object oriented code. Try to make a modular code
-Operation string and other string are case insensitive
-Handle all corner cases such as enrolling in an enrolled course and un-enrolling a course which was not enrolled etc. It should display proper error message.
