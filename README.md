@@ -26,9 +26,6 @@ Course_Duration:Integer
 Course_OutComes: String
 
 
-Course_assigned : list of courses
-ShowProf : Display all details of the professor
-Course will have the following attribute and functions
 
 
 
